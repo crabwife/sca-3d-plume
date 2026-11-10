@@ -18,7 +18,7 @@ Sampled arc peaks,source_joint_gaussian,4.7415,0.8269613,Source wind · joint fi
 Sampled arc peaks,source_separate_ca,4.228,0.5281354,Source wind · separate fit · CA
 Sampled arc peaks,source_separate_gaussian,4.228,0.5275351,Source wind · separate fit · Gaussian
 Sampled arc peaks,two_joint_ca,4.2155,0.8072087,Two winds · joint fit · CA
-Sampled arc peaks,two_joint_gaussian,4.2155,0.8068139,Two winds · joint fit · Gaussian
+Sampled arc peaks,two_joint_gaussian,4.2155,0.8068138,Two winds · joint fit · Gaussian
 Sampled arc peaks,two_separate_ca,4.1415,0.5328927,Two winds · separate fit · CA
 Sampled arc peaks,two_separate_gaussian,4.1415,0.5304273,Two winds · separate fit · Gaussian
 Tower receptors,ca_flat,,1.46974,Prior flat-wind CA
@@ -28,7 +28,7 @@ Tower receptors,source_joint_ca,,0.6468427,Source wind · joint fit · CA
 Tower receptors,source_joint_gaussian,,0.6488158,Source wind · joint fit · Gaussian
 Tower receptors,source_separate_ca,,0.6666839,Source wind · separate fit · CA
 Tower receptors,source_separate_gaussian,,0.6675911,Source wind · separate fit · Gaussian
-Tower receptors,two_joint_ca,,0.6212938,Two winds · joint fit · CA
+Tower receptors,two_joint_ca,,0.6212937,Two winds · joint fit · CA
 Tower receptors,two_joint_gaussian,,0.6232201,Two winds · joint fit · Gaussian
 Tower receptors,two_separate_ca,,0.6445492,Two winds · separate fit · CA
 Tower receptors,two_separate_gaussian,,0.6460731,Two winds · separate fit · Gaussian

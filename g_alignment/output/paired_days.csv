@@ -1,19 +1,19 @@
 target,candidate,reference,delta_rmse_log1p,lo95,hi95
-Arc receptors,two_joint_ca,source_joint_ca,-0.03394092,-0.06757591,-0.003239105
+Arc receptors,two_joint_ca,source_joint_ca,-0.03394092,-0.0675759,-0.003239088
 Arc receptors,two_separate_ca,source_separate_ca,-0.04383621,-0.08704254,0.006289816
-Arc receptors,two_separate_ca,two_joint_ca,0.1043793,-0.007459472,0.2065749
+Arc receptors,two_separate_ca,two_joint_ca,0.1043793,-0.007459474,0.2065749
 Arc receptors,two_joint_ca,ca_flat,-0.6230924,-0.8631162,-0.3907588
-Arc receptors,two_separate_ca,ca_flat,-0.5187131,-0.7143129,-0.2925961
-Arc receptors,two_separate_ca,gaussian_briggs,-0.4611594,-0.6522683,-0.2443146
-Sampled arc peaks,two_joint_ca,source_joint_ca,-0.01997686,-0.03722614,-0.004281384
+Arc receptors,two_separate_ca,ca_flat,-0.5187131,-0.714313,-0.2925961
+Arc receptors,two_separate_ca,gaussian_briggs,-0.4611594,-0.6522684,-0.2443146
+Sampled arc peaks,two_joint_ca,source_joint_ca,-0.01997686,-0.03722614,-0.004281393
 Sampled arc peaks,two_separate_ca,source_separate_ca,0.004757242,-0.01145028,0.02051944
 Sampled arc peaks,two_separate_ca,two_joint_ca,-0.274316,-0.3488597,-0.1986395
 Sampled arc peaks,two_joint_ca,ca_flat,-0.5104723,-0.646735,-0.3772128
-Sampled arc peaks,two_separate_ca,ca_flat,-0.7847883,-0.9584255,-0.6031798
-Sampled arc peaks,two_separate_ca,gaussian_briggs,-0.7396842,-0.899045,-0.5685883
-Tower receptors,two_joint_ca,source_joint_ca,-0.02554898,-0.04802855,-0.005633104
+Sampled arc peaks,two_separate_ca,ca_flat,-0.7847883,-0.9584256,-0.6031798
+Sampled arc peaks,two_separate_ca,gaussian_briggs,-0.7396843,-0.8990452,-0.5685883
+Tower receptors,two_joint_ca,source_joint_ca,-0.02554898,-0.04802853,-0.005633107
 Tower receptors,two_separate_ca,source_separate_ca,-0.02213467,-0.04078222,-0.003199526
-Tower receptors,two_separate_ca,two_joint_ca,0.02325549,-0.03787757,0.07434578
+Tower receptors,two_separate_ca,two_joint_ca,0.02325549,-0.03787756,0.07434579
 Tower receptors,two_joint_ca,ca_flat,-0.848446,-1.016489,-0.6810297
 Tower receptors,two_separate_ca,ca_flat,-0.8251906,-1.004977,-0.6428069
 Tower receptors,two_separate_ca,gaussian_briggs,-0.6291312,-0.7962836,-0.4479181
