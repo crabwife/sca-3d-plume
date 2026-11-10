@@ -1,0 +1,11 @@
+{
+  "url": "https://gaftp.epa.gov/AIR/aqmg/SCRAM/models/preferred/aermod/eval_databases/kinsf6.zip",
+  "sha256": "8b645ac7c4dbbc126a315124d4bf7bb8863077b25f06155bca17bc00d2445470",
+  "observations": {
+    "url": "https://www.harmo.org/Kit/Download/MvK_main.zip",
+    "files": {
+      "SF6_KIN.DAT": "b1401f425b8dadf3754526b6744b012d6729928f3e154465766c6c27498199ed",
+      "MET_K1.DAT": "11385f9f1331813987d89bd852af04a9ebc2871b6d7a15dc30c3158015ef21fe"
+    }
+  }
+}

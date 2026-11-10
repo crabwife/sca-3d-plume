@@ -1,0 +1,4 @@
+candidate,reference,delta_rmse_log1p,lo95,hi95
+ca_rise,ca_stack,-0.8269952,-0.9935806,-0.6607192
+gaussian_rise,gaussian_stack,-0.8265985,-0.9931602,-0.6602015
+ca_rise,gaussian_rise,-3.057624e-05,-4.832503e-05,-1.646088e-05

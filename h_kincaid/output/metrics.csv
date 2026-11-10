@@ -1,0 +1,5 @@
+model,fac2,observed_ug_m3,predicted_ug_m3,rmse_log1p,fractional_bias,days,arc_hours,label
+ca_rise,0.1337095,0.5978763,0.1240199,0.4307694,-1.31281,24,300,CA · Briggs rise
+ca_stack,0.0558642,0.5978763,4.330266,1.257765,1.514725,24,300,CA · stack height
+gaussian_rise,0.1337095,0.5978763,0.1239664,0.4308,-1.313056,24,300,Gaussian · Briggs rise
+gaussian_stack,0.0558642,0.5978763,4.328172,1.257398,1.514518,24,300,Gaussian · stack height

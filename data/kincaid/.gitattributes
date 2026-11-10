@@ -1,0 +1,2 @@
+# Preserve the original archive bytes used by the Kincaid checksum check
+*.DAT binary

@@ -75,7 +75,14 @@
       2.5e-05,
       2e-05,
       6e-05
-    ]
+    ],
+    "demo_frame_s": 600,
+    "sea_breeze_m_s": 0.8,
+    "thermal_depth_m": 360,
+    "aerosol_settling_m_s": 0.018,
+    "carbonate_stock_kg_c": 140,
+    "erosion_rate_kg_c_s": 0.014,
+    "river_speed_m_s": 1.8
   },
   "field": {
     "folds": 5,
@@ -95,5 +102,21 @@
     "dz_cap_m": 15.0,
     "domain_sigmas": 6.0,
     "bootstrap_days": 2000
+  },
+  "alignment": {
+    "downwind_vane_bias_deg": 8,
+    "station_east_m": -30,
+    "station_north_m": 450,
+    "edge_fraction": 0.15,
+    "dy_m": 1.0,
+    "dz_m": 0.25
+  },
+  "kincaid": {
+    "arc_min_km": 3,
+    "arc_max_km": 10,
+    "log_scale_ug_m3": 1,
+    "dy_m": 20,
+    "dz_m": 4,
+    "quality_min": 2
   }
 }

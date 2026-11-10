@@ -39,3 +39,9 @@ Thumbs.db
 # Keep pipeline outputs, including data and figures, under version control.
 !output/
 !output/**
+
+# Downloaded EPA distribution, verified at import
+/data/kincaid/kinsf6.zip
+
+# Generated full-resolution animation frames
+/c_coast/output/demo_frames.npz
