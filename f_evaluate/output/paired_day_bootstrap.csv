@@ -1,0 +1,25 @@
+support,contrast,candidate,baseline,delta_rmse_log1p,lo95,hi95
+Arc receptors,Wind variability,gaussian_met,gaussian_briggs,0.0600859678034511,0.015344710258606625,0.09563938344147628
+Arc receptors,Matched Gaussian to lattice,ca_flat,gaussian_met,-0.0025322619093695042,-0.006999099589012625,0.0013727963187065645
+Arc receptors,Shear,ca_shear,ca_flat,0.012105486761017747,-0.024972388120734962,0.04821233819413926
+Arc receptors,Deposition only,ca_dep,ca_flat,-0.0055712692389215945,-0.01140010756396172,0.0015942143638877965
+Arc receptors,Deposition with shear,ca_shear_dep,ca_shear,-0.008470562276740479,-0.019037120013360054,0.0027077470609271014
+Arc receptors,Higher deposition with shear,ca_shear_high_dep,ca_shear_dep,0.00044882733675888353,-0.0033114014618056465,0.006023989372596987
+Arc receptors,Shear + deposition vs matched Gaussian,ca_shear_dep,gaussian_met,0.0011026625749077645,-0.03341306222721519,0.032120583726143424
+Arc receptors,Shear + deposition vs fitted Briggs,ca_shear_dep,gaussian_briggs,0.061188630378358866,0.005207867554050283,0.11706437578474191
+Sampled arc peaks,Wind variability,gaussian_met,gaussian_briggs,0.0511635317184882,-0.023390464614043732,0.1381242552584856
+Sampled arc peaks,Matched Gaussian to lattice,ca_flat,gaussian_met,-0.006059466987267337,-0.012231664274755139,-0.00038380870160767427
+Sampled arc peaks,Shear,ca_shear,ca_flat,0.014731641998706024,-0.02558114719032149,0.058515652434093006
+Sampled arc peaks,Deposition only,ca_dep,ca_flat,0.09453981605634398,0.057402633706070114,0.13557224029164766
+Sampled arc peaks,Deposition with shear,ca_shear_dep,ca_shear,0.11830846455831368,0.06830682014996142,0.1738909392670078
+Sampled arc peaks,Higher deposition with shear,ca_shear_high_dep,ca_shear_dep,0.09527832513326895,0.060047018974376094,0.13260268336561182
+Sampled arc peaks,Shear + deposition vs matched Gaussian,ca_shear_dep,gaussian_met,0.12698063956975236,0.07853107356488823,0.1835089653289936
+Sampled arc peaks,Shear + deposition vs fitted Briggs,ca_shear_dep,gaussian_briggs,0.17814417128824056,0.07374691588938108,0.30010426371781684
+Tower receptors,Wind variability,gaussian_met,gaussian_briggs,0.19614769748325278,0.10487491015163541,0.2943964659146482
+Tower receptors,Matched Gaussian to lattice,ca_flat,gaussian_met,-8.830854670227595e-05,-0.0006448995945991353,0.0004990722078341112
+Tower receptors,Shear,ca_shear,ca_flat,0.047616342442028614,0.014188383926786518,0.08164210613529951
+Tower receptors,Deposition only,ca_dep,ca_flat,-0.021696335149591794,-0.027624599658140812,-0.015104158785847524
+Tower receptors,Deposition with shear,ca_shear_dep,ca_shear,-0.03933548739422221,-0.055357354735095475,-0.022368330827660907
+Tower receptors,Higher deposition with shear,ca_shear_high_dep,ca_shear_dep,-0.02982476244993637,-0.039516966960264875,-0.019088378287620927
+Tower receptors,Shear + deposition vs matched Gaussian,ca_shear_dep,gaussian_met,0.008192546501104125,-0.012844831593913914,0.03257922471323901
+Tower receptors,Shear + deposition vs fitted Briggs,ca_shear_dep,gaussian_briggs,0.2043402439843569,0.09821435725963645,0.32234896062594415

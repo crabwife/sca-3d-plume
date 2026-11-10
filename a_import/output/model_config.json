@@ -1,0 +1,99 @@
+{
+  "seed": 63,
+  "benchmark": {
+    "spacing_m": [
+      2.0,
+      1.0,
+      0.5
+    ],
+    "wind_m_s": 1.2,
+    "diffusivity_m2_s": [
+      1.2,
+      0.85,
+      0.55
+    ],
+    "source_height_m": 3.0,
+    "release_g_s": 1.0,
+    "puff_times_s": [
+      5,
+      10,
+      20
+    ],
+    "plume_slice_s": 30,
+    "duration_s": 60,
+    "slice_x_m": 24,
+    "slice_z_m": 1.5
+  },
+  "coast": {
+    "shape": [
+      64,
+      30,
+      20
+    ],
+    "spacing_m": [
+      100,
+      100,
+      30
+    ],
+    "step_s": 12,
+    "duration_s": 9000,
+    "diffusivity_m2_s": [
+      190,
+      105,
+      9
+    ],
+    "snapshot_s": [
+      2400,
+      4800,
+      9000
+    ],
+    "voc_lifetime_s": 2200,
+    "co2_uptake_m_s": [
+      0.001,
+      0.0038,
+      0.0021,
+      0.0007,
+      0.0045
+    ],
+    "particle_uptake_m_s": [
+      0.01,
+      0.009,
+      0.007,
+      0.01,
+      0.0035
+    ],
+    "surface_return_s_inv": [
+      0.00012,
+      0.00011,
+      9e-05,
+      0.00013,
+      5e-05
+    ],
+    "surface_storage_s_inv": [
+      2e-05,
+      2e-05,
+      2.5e-05,
+      2e-05,
+      6e-05
+    ]
+  },
+  "field": {
+    "folds": 5,
+    "log_scale_mg_m3": 1.0,
+    "width_scale_bounds": [
+      0.35,
+      3.0
+    ],
+    "bearing_offset_bound_deg": 25,
+    "angle_floor_fraction": 0.35,
+    "deposition_m_s": 0.005,
+    "deposition_high_m_s": 0.01,
+    "dx_m": 5.0,
+    "dy_m": 2.0,
+    "dz_surface_m": 0.3,
+    "vertical_growth": 1.1,
+    "dz_cap_m": 15.0,
+    "domain_sigmas": 6.0,
+    "bootstrap_days": 2000
+  }
+}

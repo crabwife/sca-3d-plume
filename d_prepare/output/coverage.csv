@@ -1,0 +1,11 @@
+fold,array,days,runs,measured,observed_zero,corrected
+0,arc,4,9,778,0,740
+0,tower,3,8,431,282,0
+1,arc,4,9,1039,0,1039
+1,tower,4,9,486,285,0
+2,arc,4,9,991,0,991
+2,tower,4,8,432,251,0
+3,arc,4,9,951,0,951
+3,tower,3,6,323,189,0
+4,arc,4,8,988,0,988
+4,tower,3,6,318,205,0
